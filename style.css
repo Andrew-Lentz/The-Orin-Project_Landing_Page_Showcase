@@ -1,0 +1,11 @@
+.top .logo {
+    size: 24px;
+    color: #f9faf8;
+
+
+}
+
+.top {
+    background-color: #1F2937;
+    display: flex;
+}
